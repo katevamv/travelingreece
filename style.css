@@ -1,0 +1,33 @@
+body {
+    font-family: sans-serif;
+}
+
+header{
+    border-top: 10px solid navy;
+    background-color: navy;
+
+}
+
+nav{
+    text-align: right;
+    margin-top: 20px;
+    border: 20px solid navy;
+    background-color: navy;
+}
+
+nav a{
+    text-decoration: none;
+    border: 1px solid navy;
+    padding: 5px;
+    border-radius: 5px;
+    margin: 5px;
+    background-color: white;
+}
+
+h1{
+    padding-left: 10px;
+    color: white;
+    font-size: 40px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
